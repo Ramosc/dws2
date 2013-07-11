@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1410e4f9-72ee-4dd5-8b72-f1bf206fee03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1/css/selectors.css" afterPath="$PROJECT_DIR$/b1/css/selectors.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1/git_links.txt" afterPath="$PROJECT_DIR$/b1/git_links.txt" />
-    </list>
+    <list default="true" id="1410e4f9-72ee-4dd5-8b72-f1bf206fee03" name="Default" comment="" />
     <ignored path="dws2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
