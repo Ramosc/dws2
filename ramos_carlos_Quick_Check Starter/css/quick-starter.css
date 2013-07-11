@@ -1,0 +1,35 @@
+body{
+    width: 960px;
+}
+#header{
+    background-color: #5174d5;
+}
+#sidebar{
+    background-color: #e3e3e3;
+    width: 367px;
+    float: left;
+
+}
+#main{
+    background-color: #a9a9a9;
+    width: 593px;
+    float: left;
+}
+#footer{
+    background-color: #666666;
+    width: 960px;
+    clear: both;
+}
+
+/*
+target/context(parent) = result
+
+padding value may not work 
+
+flexible media make max width 100 %
+flexible grid
+and media query
+
+Media query example ---- @media screen and (min-width: 400px) and (max-width: 700px) { … }
+
+*/
