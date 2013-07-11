@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1410e4f9-72ee-4dd5-8b72-f1bf206fee03" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1/css/selectors.css" afterPath="$PROJECT_DIR$/b1/css/selectors.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b1/git_links.txt" afterPath="$PROJECT_DIR$/b1/git_links.txt" />
     </list>
     <ignored path="dws2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +26,7 @@
       <file leaf-file-name="selectors.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/b1/selectors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="8" selection-start="4845" selection-end="4845" vertical-scroll-proportion="-2.2807016">
+            <state line="22" column="22" selection-start="635" selection-end="635" vertical-scroll-proportion="-18.451612">
               <folding />
             </state>
           </provider>
@@ -34,7 +35,7 @@
       <file leaf-file-name="selectors.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b1/css/selectors.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="701" selection-end="701" vertical-scroll-proportion="1.7333333">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -345,14 +346,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b1/selectors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="8" selection-start="4845" selection-end="4845" vertical-scroll-proportion="-2.2807016">
+        <state line="22" column="22" selection-start="635" selection-end="635" vertical-scroll-proportion="-18.451612">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/b1/css/selectors.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="701" selection-end="701" vertical-scroll-proportion="1.7333333">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

@@ -1,9 +1,3 @@
-/*
-multiple
-
-attributes
-combinators*/
-
 *{
     margin: 0;
     padding: 0;
@@ -33,20 +27,12 @@ h1{
     border-radius: 0.625em;
     box-shadow: 0.313em 0.313em 0.625em #777;
 }
-{
-    float: left;
-}
 table tr.odd{
     color: purple;
 }
 table th, tr, td:first-child{
     text-align: right;
 }
-
-
-
-
-
 a:link{
     color: purple;
     text-decoration: none;
