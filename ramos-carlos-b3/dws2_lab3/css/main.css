@@ -1,0 +1,338 @@
+/*------ Document -----*/
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 0.75em;
+	line-height: 1.5em;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #797266;
+	background-color: #797266;
+}
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #006579;
+	outline: none;
+}
+a:hover{
+	text-decoration: underline;
+	color: #BA3600;
+}
+p{
+	margin: 0;
+	padding: 0 0 1.25em 0;
+}
+h1, h2, h3, h4, h5 {
+	font-size: 1em;
+	line-height: 1em;
+	color: #352f24;
+	margin: 0;
+}
+strong {
+	color: #352f24;
+}
+h2{
+	font-size: 2em;
+	padding-bottom: 20px;
+}
+h3{
+	font-size: 1.5em;
+	padding-bottom: .5em;
+}
+h4{
+	font-size: 1.083em;
+	color: #605A51;
+}
+/*------ Utility -----*/
+.clear{
+	clear: both;
+}
+img.left, img.side {
+	border: 5px solid #FFFFFF;
+	margin-bottom: 15px;
+}
+img.left {
+	float: left;
+	margin-right: 15px;
+}
+/*------ Structure -----*/
+#header, #main_content, #footer {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.section_title {
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #dddac3;
+}
+/*------ Header -----*/
+#header{
+	background: url(../images/header-bg.jpg) no-repeat;
+	height: 210px;
+}
+#header h1{
+	padding-left: 65px;
+	float: left;
+	width: 317px;
+	padding-top: 75px;
+}
+#header h1 a{
+	background: url(../images/logo.gif) no-repeat;
+	display: block;	
+	height: 90px;
+/* Below is the newest update for image replacement text by Scott Kellum */
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+
+}
+/*------ Navigation -----*/
+#nav{
+	padding-top: 75px;
+	padding-right: 65px;
+	list-style-type: none;
+	float: right;
+	margin: 20px 0 0 0;
+	width: 277px;
+}
+#nav li{
+	float: left;
+}
+#nav a{
+	font-weight: bold;
+	text-transform: uppercase;
+	display: block;
+	padding: 5px;
+	color: #423b2d;
+	text-decoration: none;
+	margin-left: 10px;
+}
+#nav a:hover{
+	color: #ba3600;
+}
+#nav a.current{
+	background-color: #ba3600;
+	color: #FFFFFF;
+}
+/*------ Content -----*/
+#banner{
+	height:220px;
+	margin-left: 35px;
+	margin-bottom: 30px;
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+}
+#main_content{
+	background-image: url(../images/main_content-bg.jpg);
+	background-repeat: repeat-y;
+	overflow: hidden;
+}
+.column {
+	float: left;
+	width: 276px;
+}
+#first.column{
+	padding-left: 65px;
+
+}
+#main_content .primary-content{
+	float: left;
+	width: 560px;
+	padding-left: 65px;
+}
+#main_content .sidebar{
+	float: left;
+	width: 240px;
+	margin-top: 45px;
+	margin-left: 30px;
+}
+.page-flip{ /* apply the "page-flip" class to a DIV to get the raised bottom corner effect. */
+	background-image: url(../images/page-flip.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 25px;
+	margin-bottom: 20px;
+}
+.page-flip-home {
+	margin-bottom: 0px;
+}
+ul.line, ul.side-nav, ul.foot {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+ul.line li  { /* apply the "line" class to a UL to remove the indent from your lists and add a line under each item */
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #dddac3;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+.primary-content ul, .primary-content ol {
+	margin-top: 0px;
+	margin-bottom: 1.75em;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 2em;
+	padding-left: 2em;
+	margin-right: 2em;
+	margin-left: 2em;
+}
+.primary-content ul li, .primary-content ol li {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #DDDAC3;
+	padding-bottom: .75em;
+	margin-bottom: .75em;
+}
+.news-date {
+	float: left;
+	text-align: center;
+	color: #352f24;
+	display: block;
+	width: 40px;
+}
+.news-date .month {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.news-date  .day {
+	font-size: 1.75em;
+	font-weight: bold;
+	color: #BA3600;
+}
+.news-date .year {
+	font-size: .9em;
+}
+.news-item {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #DDDAC3;
+	float: left;
+	margin-left: 12px;
+	padding-left: 12px;
+	width: 165px;
+}
+ul.resources li, ul.side-nav li{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #DDDAC3;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+ul.side-nav li{
+	margin-bottom: 6px;
+	padding-bottom: 6px;
+}
+ul.side-nav li a{ /* this is the sidebar sub navigation link style. */
+	color: #BA3600;
+	display: block;
+	background-image: url(../images/sidebar-nav-bullet.gif);
+	background-repeat: no-repeat;
+	background-position: 0em .5em;
+	padding-left: 12px;
+	font-weight: bold;
+}
+ul.side-nav li a:hover{
+	color: #006579;
+	text-decoration: none;
+}
+ul.line li.last ,ul.side-nav li.last{
+	border-bottom-style: none;
+}
+/*------ Form -----*/
+form.contact {
+	margin: 0px;
+	padding: 0px;
+}
+form.contact fieldset {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+form.contact div.clear {
+	border-bottom-width: 1px;
+	border-bottom-style: none;
+	border-bottom-color: #DDDAC3;
+	padding-bottom: 3px;
+}
+
+form.contact  label {
+	text-align: right;
+	float: left;
+	width: 125px;
+}
+form.contact .element      {
+	margin-left: 5px;
+	border: 1px solid #DDDAC3;
+	float: left;
+	width: 200px;
+	color: #797266;
+	padding: 5px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+form.contact  .large {
+	width: 300px;
+}
+form.contact .element:focus, form.contact .large:focus {
+	border: 1px solid #aaa;
+}
+
+form.contact .button {
+	padding: 5px;
+	margin-top: 5px;
+	margin-left: 130px;
+	float: left;
+	background-color: #ba3600;
+	color: #FFFFFF;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+	border-left: 1px solid #fff;
+	cursor: pointer;
+}
+
+form.contact .button:hover{
+	background-color: #FFF;
+	color: #ba3600;
+
+}
+.alert {
+	font-size: .9em;
+	font-style: italic;
+	color: #BA3600;
+}
+/*------ Footer -----*/
+#footer{
+	clear: both;
+	text-align: center;
+	background-image: url(../images/footer-bg.jpg);
+	background-repeat: no-repeat;
+	color: #423b2d;
+	font-size: .917em;
+	line-height: 1.4em;
+	padding-top: 92px;
+	padding-bottom: 20px;
+}
+#footer ul{
+
+	padding-bottom: .5em;
+
+}
+#footer ul li{
+	display: inline;
+	margin-right: 15px;
+}
+#footer a{ 
+	color: #352F24;
+}
