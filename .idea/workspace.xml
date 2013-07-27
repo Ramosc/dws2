@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1410e4f9-72ee-4dd5-8b72-f1bf206fee03" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dhg-Skeleton-7ab6820/images/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dhg-Skeleton-7ab6820/images/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dhg-Skeleton-7ab6820/images/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dhg-Skeleton-7ab6820/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dhg-Skeleton-7ab6820/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dhg-Skeleton-7ab6820/stylesheets/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dhg-Skeleton-7ab6820/stylesheets/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dhg-Skeleton-7ab6820/stylesheets/skeleton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/css/help.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/footer-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/header-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/main_content-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/page-flip.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/sample-photo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/sample-photo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/sample-thumb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/sample-thumb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/sample-thumb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/images/sidebar-nav-bullet.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-b3/dws2_lab3/services.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ramos-carlos-b4/b4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ramos-carlos-b4/css/custom.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RWD demo/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RWD demo/images/homer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RWD demo/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ramos-carlos-b3/ramos-carlos-b3.zip" afterPath="$PROJECT_DIR$/ramos-carlos-b3/ramos-carlos-b3.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dws2.iws" />
@@ -48,46 +28,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/about.html">
+      <file leaf-file-name="b4.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ramos-carlos-b4/b4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="540" selection-end="678" vertical-scroll-proportion="0.4642857">
+            <state line="14" column="13" selection-start="548" selection-end="548" vertical-scroll-proportion="0.3627451">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/contact.html">
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ramos-carlos-b4/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="67" selection-start="594" selection-end="594" vertical-scroll-proportion="-7.548387">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="30" selection-start="0" selection-end="6196" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skeleton.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/css/skeleton.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="0" selection-start="3288" selection-end="3288" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/css/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="262" column="20" selection-start="8989" selection-end="8989" vertical-scroll-proportion="0.0">
+            <state line="16" column="63" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,10 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../DWS1/Lab/ramos-carlos-wk4final/wk4-final-project.html" />
-        <option value="$PROJECT_DIR$/b1/css/selectors" />
-        <option value="$PROJECT_DIR$/ramos_carlos_Quick_Check Starter/index.html" />
-        <option value="$PROJECT_DIR$/ramos_carlos_Quick_Check Starter/css/quick-starter.css" />
         <option value="$PROJECT_DIR$/b1/index.html" />
         <option value="$PROJECT_DIR$/b1/selectors.html" />
         <option value="$PROJECT_DIR$/../DWS1/Lab/ramos-carlos-wk4final/css/wk4-final-project.css" />
@@ -122,13 +71,17 @@
         <option value="$PROJECT_DIR$/ramos-carlos-b3/about.html" />
         <option value="$PROJECT_DIR$/ramos-carlos-b3/css/layout.css" />
         <option value="$PROJECT_DIR$/ramos-carlos-b3/contact.html" />
+        <option value="$PROJECT_DIR$/bootstrap.html" />
+        <option value="$PROJECT_DIR$/bootstrap-demo/bootstrap.html" />
+        <option value="$PROJECT_DIR$/ramos-carlos-b4/b4.html" />
+        <option value="$PROJECT_DIR$/ramos-carlos-b4/css/custom.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="808" />
+    <option name="height" value="804" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,57 +130,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="skeleton">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="dws2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="skeleton">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="images">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="dws2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="ramos-carlos-b3">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="dws2">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="ramos-carlos-b3">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="css">
+            <PATH_ELEMENT USER_OBJECT="ramos-carlos-b4">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -247,8 +150,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
@@ -288,13 +196,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="808" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="804" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.151729" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.151729" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -362,112 +270,94 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ramos_carlos_Quick_Check Starter/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="64" selection-end="122" vertical-scroll-proportion="0.16883117">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DWS1/Lab/ramos-carlos-wk4final/css/wk4-final-project.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="30" selection-start="1847" selection-end="1847" vertical-scroll-proportion="0.92121214">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DWS1/Lab/ramos-carlos-wk4final/wk4-final-project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="286" selection-end="286" vertical-scroll-proportion="0.042207792">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ramos-carlos-b2/b2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="16" selection-start="68" selection-end="145" vertical-scroll-proportion="0.16883117">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/images/logo.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skeleton/stylesheets/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skeleton/stylesheets/skeleton.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="3287" selection-end="3287" vertical-scroll-proportion="2.812983">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="0" selection-end="6196" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="30" selection-start="0" selection-end="6196" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/css/help.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="189" selection-end="189" vertical-scroll-proportion="0.3939394">
-          <folding />
-        </state>
+        <state line="10" column="16" selection-start="189" selection-end="189" vertical-scroll-proportion="0.3939394" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skeleton/stylesheets/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="0" selection-start="364" selection-end="9023" vertical-scroll-proportion="0.9162641">
-          <folding />
-        </state>
+        <state line="271" column="0" selection-start="364" selection-end="9023" vertical-scroll-proportion="0.9162641" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="67" selection-start="594" selection-end="594" vertical-scroll-proportion="-7.548387">
-          <folding />
-        </state>
+        <state line="9" column="67" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/css/skeleton.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="0" selection-start="3288" selection-end="3288" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="71" column="0" selection-start="3288" selection-end="3288" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="262" column="20" selection-start="8989" selection-end="8989" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="262" column="20" selection-start="8989" selection-end="8989" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-b3/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="540" selection-end="678" vertical-scroll-proportion="0.4642857">
+        <state line="11" column="0" selection-start="540" selection-end="678" vertical-scroll-proportion="-0.33656958" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="633" column="10" selection-start="9507" selection-end="9516" vertical-scroll-proportion="-7.9615383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foundation-4.3.0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-b4/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="418" column="25" selection-start="11794" selection-end="11802" vertical-scroll-proportion="0.4589372" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-b4/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4375" column="20" selection-start="83557" selection-end="83564" vertical-scroll-proportion="-11.884615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class demo/bootstrap-demo/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class demo/RWD demo/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="17" selection-start="1014" selection-end="1024" vertical-scroll-proportion="0.7134146">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-b4/css/bootstrap-responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1103" column="0" selection-start="21987" selection-end="22110" vertical-scroll-proportion="0.5809524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-b4/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="63" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-b4/b4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="548" selection-end="548" vertical-scroll-proportion="0.3627451">
           <folding />
         </state>
       </provider>

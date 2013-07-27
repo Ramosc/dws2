@@ -1,0 +1,41 @@
+body{
+    background-image: url(../img/pattern/white_carbonfiber.png);
+}
+h1, h2, h3, a{
+    font-family: 'Racing Sans One', cursive;
+}
+li.lower{
+    margin-top: 20px;
+}
+footer{
+    background: #fafafa;
+    border-radius: 5px;
+    margin-top: 40px;
+    outline: hidden;
+}
+.hero-unit{
+    background-image: url(../img/pattern/white_carbonfiber.png);
+}
+.btn{
+    background: #87ceeb;
+}
+
+@media screen and (min-width:910px) and (max-width:1050px) {
+    body, p{
+        font-size: 12px;
+    }
+}
+@media screen and (min-width:500px) and (max-width:909px) {
+    body, p{
+        font-size: 10px;
+    }
+    .buy{
+        float: left;
+    }
+    .edc{
+        float: left;
+    }
+    .tickets{
+        font-size: 12px;
+    }
+}
