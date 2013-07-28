@@ -19,7 +19,6 @@ footer{
 .btn{
     background: #87ceeb;
 }
-
 @media screen and (min-width:910px) and (max-width:1050px) {
     body, p{
         font-size: 12px;
