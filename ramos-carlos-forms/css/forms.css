@@ -1,0 +1,21 @@
+h1, h2{
+    font-family: 'Playfair Display SC', serif;
+}
+.search{
+    float: right;
+}
+input, textarea{
+    width: 400px;
+    float: left;
+    clear: both;
+    margin: 5px;
+}
+label{
+    width: 600px;
+    float: left;
+    clear: both;
+    margin-top: 10px;
+}
+span{
+    float: left;
+}
