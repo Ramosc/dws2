@@ -1,0 +1,12 @@
+body{
+    background-image: url("../img/fabric_of_squares_gray/fabric_of_squares_gray.png");
+}
+form{
+    margin: 0 30px;
+}
+li.has-button{
+    margin: 0 20px 0 0;
+}
+a.small{
+    margin: 0 5px;
+}
