@@ -1,0 +1,17 @@
+h1, h2, h3, h4, h5, h6, a{
+    font-family: 'Cinzel Decorative', cursive;
+}
+#feature{
+    position: relative;
+}
+/*.cta-button{
+    position: absolute;
+    left: 700px;
+    bottom: 100px;
+}*/
+a.th.radius{
+    margin-bottom: 10px;
+}
+#gallery, #artist, #index, #appointment{
+    margin-top: 50px;
+}

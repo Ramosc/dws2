@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/foundation.css" rel="stylesheet"/>
+    <link href="css/normalize.css" rel="stylesheet"/>
+    <link href="css/custom.css" rel="stylesheet"/>
+    <link href='http://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700,900' rel='stylesheet' type='text/css'>
+    <title>Appointment</title>
+</head>
+<body>
+<!-- Navigation -->
+<div class="fixed">
+    <nav class="top-bar">
+        <ul class="title-area">
+            <!-- Title Area -->
+            <li class="name">
+                <h1>
+                    <a href="index.html">La Bella Makeup Studio</a>
+                </h1>
+            </li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
+        </ul>
+        <section class="top-bar-section">
+            <!-- Right Nav Section -->
+            <ul class="right">
+                <li class="divider"></li>
+                <li class="has-dropdown">
+                    <a href="appointment.html">Appointments</a>
+                    <ul class="dropdown">
+                        <li><a href="#">Dropdown Option</a></li>
+                        <li class="divider"></li>
+                        <li><a href="#">Dropdown Option</a></li>
+                    </ul>
+                </li>
+                <li class="divider"></li>
+                <li class="has-dropdown">
+                    <a href="gallery.html">Gallery</a>
+                    <ul class="dropdown">
+                        <li><a href="#">Brides</a></li>
+                        <li class="divider"></li>
+                        <li><a href="#">Events</a></li>
+                        <li class="divider"></li>
+                        <li><a href="#">Costume</a></li>
+                        <li class="divider"></li>
+                        <li><a href="#">Night Out</a></li>
+                    </ul>
+                </li>
+                <li class="divider"></li>
+                <li>
+                    <a href="artist.html">Artist</a>
+                </li>
+            </ul>
+        </section>
+    </nav>
+</div>
+<!-- End Top Bar -->
+<div id="appointment" class="row">
+    <div class="large-12">
+        <h3>Are you ready!</h3>
+        <p>
+            Like I said we are good at what we do and we are committed to making you look beautiful on your special day; you'll
+            know why we are the best after we get done with your makeup <em>(lets just say people take notice)</em> and we
+            promise you'll love it. Whatever you need let us know and we got you covered.
+        </p>
+        <hr>
+    </div>
+</div>
+<!-- Table -->
+<div class="row">
+    <div class="large-6 columns">
+        <table>
+            <thead>
+            <h4>Services</h4>
+            <tr>
+                <th width="300">Full Makeup Service</th>
+                <th width="300">Price</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Airbush Application</td>
+                <td>$40 and up</td>
+            </tr>
+            <tr>
+                <td>Special Events</td>
+                <td>$40 and up</td>
+            </tr>
+            <tr>
+                <td>Diva Style w/ Lashes</td>
+                <td>$40</td>
+            </tr>
+            <tr>
+                <td>Basic Application w/ Lashes</td>
+                <td>$30</td>
+            </tr>
+            <tr>
+                <td>Basic Application w/o Lashes</td>
+                <td>$25</td>
+            </tr>
+            <tr>
+                <td>Maternity</td>
+                <td>$25</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="large-6 columns">
+        <table>
+            <thead>
+            <h4>Speacial Services</h4>
+            <tr>
+                <th width="300">Beauty Service</th>
+                <th width="300">Price</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Eyebrow Threading</td>
+                <td>$8</td>
+            </tr>
+            <tr>
+                <td>Lip Threading</td>
+                <td>$5</td>
+            </tr>
+            <tr>
+                <td>Strip Lashes</td>
+                <td>$8</td>
+            </tr>
+            <tr>
+                <td>Individual Lashes</td>
+                <td>$15</td>
+            </tr>
+            <tr>
+                <td>Gel Nail Application</td>
+                <td>$15</td>
+            </tr>
+            <tr>
+                <td>Basic Manicure</td>
+                <td>$8</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<!-- Form -->
+<div class="row">
+    <!-- Contact Details -->
+    <div class="large-9 columns">
+        <div class="section-container tabs" data-section>
+            <section class="section">
+                <h5 class="title"><a href="#panel1">Appointment</a></h5>
+                <div class="content" data-slug="panel1">
+                    <form>
+                        <div class="row collapse">
+                            <div class="large-2 columns">
+                                <label class="inline">Your Name</label>
+                            </div>
+                            <div class="large-10 columns">
+                                <input type="text" id="yourName" placeholder="Jane Smith">
+                            </div>
+                        </div>
+                        <div class="row collapse">
+                            <div class="large-2 columns">
+                                <label class="inline"> Your Email</label>
+                            </div>
+                            <div class="large-10 columns">
+                                <input type="text" id="yourEmail" placeholder="jane@smithco.com">
+                            </div>
+                        </div>
+                        <label>What's up?</label>
+                        <textarea rows="4"></textarea>
+                        <button type="submit" class="radius button">Submit</button>
+                    </form>
+                </div>
+            </section>
+        </div>
+    </div>
+    <!-- End Contact Details -->
+    <!-- Sidebar -->
+    <div class="large-3 columns">
+        <h5>Map</h5>
+        <!-- Clicking this placeholder fires the mapModal Reveal modal -->
+        <p>
+            <a href="" data-reveal-id="mapModal"><img src="http://placehold.it/400x280"></a><br />
+            <a href="" data-reveal-id="mapModal">View Map</a>
+        </p>
+        <p>
+            123 Awesome St.<br />
+            Barsoom, MA 95155
+        </p>
+    </div>
+    <!-- End Sidebar -->
+</div>
+<!-- End Main Content and Sidebar -->
+<!-- Footer -->
+<footer class="row">
+    <div class="large-12 columns">
+        <hr />
+        <div class="row">
+            <div class="large-6 columns">
+                <p>&copy; Copyright no one at all. Go to town.</p>
+            </div>
+            <div class="large-6 columns">
+                <ul class="inline-list right">
+                    <li><a href="#">Link 1</a></li>
+                    <li><a href="#">Link 2</a></li>
+                    <li><a href="#">Link 3</a></li>
+                    <li><a href="#">Link 4</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer -->
+<!-- Map Modal -->
+<div class="reveal-modal" id="mapModal">
+    <h4>Where We Are</h4>
+    <p><img src="http://placehold.it/800x600" /></p>
+
+    <!-- Any anchor with this class will close the modal. This also inherits certain styles, which can be overriden. -->
+    <a href="#" class="close-reveal-modal">&times;</a>
+</div>
+<script>
+    document.write('<script src=js/vendor/' +
+            ('__proto__' in {} ? 'zepto' : 'jquery') +
+            '.js><\/script>')
+</script>
+<script src="js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+</script>
+</body>
+</html>
