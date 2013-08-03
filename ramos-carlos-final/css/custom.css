@@ -1,5 +1,5 @@
 body{
-    background-image: url("../media/p/b1.png") ;
+    background-image: url("../media/p/b1.png");
 }
 h3, h4, h5, a{
     font-family: 'Cinzel Decorative', cursive;
@@ -29,4 +29,28 @@ footer{
     border-radius: 10px;
     padding: 10px;
     margin-top: 10px;
+}
+@media screen and (min-width:789px) and (max-width:1000px){
+    body p{
+        font-size: 14px;
+    }
+    h3, h4, h5, a{
+        font-size: 16px;
+    }
+}
+@media screen and (min-width:400px) and (max-width:768px){
+    a.th.radius.large-12 img{
+        max-width: 100%;
+        height: 300px;
+        width: 300px;
+    }
+    body p{
+        font-size: 12px;
+    }
+    h3, h4, h5, a{
+        font-size: 14px;
+    }
+    img{
+        float: left;
+    }
 }

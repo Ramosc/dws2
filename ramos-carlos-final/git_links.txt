@@ -1,0 +1,15 @@
+https://github.com/Ramosc/dws2.git
+
+http://Ramosc.github.io//dws2/ramos-carlos-final/index.html
+http://Ramosc.github.io//dws2/ramos-carlos-final/appointments.html
+http://Ramosc.github.io//dws2/ramos-carlos-final/gallery.html
+http://Ramosc.github.io//dws2/ramos-carlos-final/artist.html
+
+
+Site Goals
+
+1. Get customers to schedule an appointment
+2. Have customer view video
+3. Have customer view gallery
+
+
