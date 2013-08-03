@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,7 +39,7 @@
                     <a href="gallery.html">Gallery</a>
                     <ul class="dropdown">
                         <li><a href="#">Brides</a></li>
-                        <li class="divider"></li>
+                        <li id="soft"  class="divider"></li>
                         <li><a href="#">Events</a></li>
                         <li class="divider"></li>
                         <li><a href="#">Costume</a></li>
@@ -57,6 +57,7 @@
 </div>
 <!-- End Top Bar -->
 <!-- Content Slider -->
+<div id="content-wrapper">
 <div id="index" class="row">
     <div class="large-12 hide-for-small">
         <div id="featured" data-orbit>
@@ -64,23 +65,23 @@
                 <img src="media/p/graphic.jpg" alt="slide image">
                 <div class="orbit-caption">
                     <div class="cta-button">
-                    <a href="#" class="small button right">Default Button</a>
+                    <a href="appointment.html" class="small button right">Schedule Today</a>
                     </div>
                 </div>
             </div>
             <div>
-                <img src="media/p/a1a.png" alt="slide image">
+                <img src="media/p/a9.png" alt="slide image">
                 <div class="orbit-caption">
                     <div class="cta-button">
-                        <a href="#" class="small button right">Default Button</a>
+                        <a href="appointment.html" class="small button right">Schedule Today</a>
                     </div>
                 </div>
             </div>
             <div>
-                <img src="http://placehold.it/1200x500&text=Slide Image 1" alt="slide image">
+                <img src="media/p/m2.png" alt="slide image">
                 <div class="orbit-caption">
                     <div class="cta-button">
-                        <a href="#" class="small button right">Default Button</a>
+                        <a href="appointment.html" class="small button right">Schedule Today</a>
                     </div>
                 </div>
             </div>
@@ -89,22 +90,25 @@
 </div>
 <hr />
 <!-- Three-up Content Blocks -->
-<div class="row">
+<div id="home-thumbnails"  class="row">
     <div class="large-4 columns">
-        <img src="http://placehold.it/400x300&text=[img]" />
-        <h4>This is a content section.</h4>
+        <div class="flex-video">
+            <iframe width="533" height="300" src="//www.youtube.com/embed/z_1tpQawDVs?rel=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <!--<a href="appointment.html"><img src="media/p/apply1.png"></a>-->
+        <h4>Check Out My Videos</h4>
         <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
     </div>
 
     <div class="large-4 columns">
-        <img src="http://placehold.it/400x300&text=[img]" />
-        <h4>This is a content section.</h4>
+        <a href="gallery.html"><img src="media/p/liza4.png"></a>
+        <h4>View The Artwork</h4>
         <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
     </div>
 
     <div class="large-4 columns">
-        <img src="http://placehold.it/400x300&text=[img]" />
-        <h4>This is a content section.</h4>
+        <a href="artist.html"><img src="media/p/a8.png"></a>
+        <h4>Meet The Artist</h4>
         <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
     </div>
 
@@ -131,9 +135,10 @@
 
     </div>
 </div>
+</div>
 <!-- Footer -->
-<footer class="row">
-    <div class="large-12 columns">
+<footer>
+    <div>
         <hr />
         <div class="row">
             <div class="large-6 columns">

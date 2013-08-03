@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1410e4f9-72ee-4dd5-8b72-f1bf206fee03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ramos-carlos-final/appointment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ramos-carlos-final/artist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ramos-carlos-final/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ramos-carlos-final/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ramos-carlos-final/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transform.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transform.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/1001066_4918416049539_1552333807_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/22298_3958592125121_657599256_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/401347_212261868858972_853489450_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/404230_208910012527491_774055376_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/643890_476908165662608_1155341389_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/995037_4918423769732_168411501_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/a2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/a3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/m2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/m3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/m4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/m5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/m7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/mis1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ramos-carlos-final/media/p/mis2.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ramos-carlos-final/appointment.html" afterPath="$PROJECT_DIR$/ramos-carlos-final/appointment.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ramos-carlos-final/artist.html" afterPath="$PROJECT_DIR$/ramos-carlos-final/artist.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ramos-carlos-final/css/custom.css" afterPath="$PROJECT_DIR$/ramos-carlos-final/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ramos-carlos-final/gallery.html" afterPath="$PROJECT_DIR$/ramos-carlos-final/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ramos-carlos-final/index.html" afterPath="$PROJECT_DIR$/ramos-carlos-final/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ramos-carlos-forms/index.html" afterPath="$PROJECT_DIR$/ramos-carlos-forms/index.html" />
     </list>
     <ignored path="dws2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +43,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ramos-carlos-final/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="20" selection-start="5316" selection-end="5316" vertical-scroll-proportion="-102.0">
+            <state line="93" column="33" selection-start="3556" selection-end="3556" vertical-scroll-proportion="0.16938111">
               <folding />
             </state>
           </provider>
@@ -41,16 +55,7 @@
       <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ramos-carlos-final/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="20" selection-start="3576" selection-end="3576" vertical-scroll-proportion="-15.612904">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appointment.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ramos-carlos-final/appointment.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="22" selection-start="4615" selection-end="4615" vertical-scroll-proportion="-14.774194">
+            <state line="112" column="9" selection-start="4377" selection-end="4377" vertical-scroll-proportion="-18.129032">
               <folding />
             </state>
           </provider>
@@ -59,25 +64,43 @@
       <file leaf-file-name="artist.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ramos-carlos-final/artist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="20" selection-start="4141" selection-end="4141" vertical-scroll-proportion="-5.870968">
+            <state line="63" column="4" selection-start="2332" selection-end="2332" vertical-scroll-proportion="-5.548387">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="appointment.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ramos-carlos-final/appointment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="197" column="34" selection-start="7256" selection-end="7257" vertical-scroll-proportion="-8.064516">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ramos-carlos-final/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="295" selection-end="295" vertical-scroll-proportion="0.63221884">
+            <state line="24" column="0" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="foundation.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ramos-carlos-final/css/foundation.css">
+      <file leaf-file-name="b5.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ramos-carlos-b5/b5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1483" column="25" selection-start="36541" selection-end="36548" vertical-scroll-proportion="-7.923077">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ramos-carlos-b5/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -100,18 +123,18 @@
         <option value="$PROJECT_DIR$/ramos-carlos-b5/css/custom.css" />
         <option value="$PROJECT_DIR$/ramos-carlos-formzzz/index.html" />
         <option value="$PROJECT_DIR$/ramos-carlos-forms/css/forms.css" />
-        <option value="$PROJECT_DIR$/ramos-carlos-forms/index.html" />
         <option value="$PROJECT_DIR$/ramos-carlos-b6/css/custom.css" />
         <option value="$PROJECT_DIR$/ramos-carlos-b6/contact.html" />
         <option value="$PROJECT_DIR$/ramos-carlos-b6/css/web.css" />
         <option value="$PROJECT_DIR$/transform.html" />
         <option value="$PROJECT_DIR$/transform.css" />
         <option value="$PROJECT_DIR$/ramos-carlos-final/home.html" />
-        <option value="$PROJECT_DIR$/ramos-carlos-final/css/custom.css" />
-        <option value="$PROJECT_DIR$/ramos-carlos-final/artist.html" />
+        <option value="$PROJECT_DIR$/ramos-carlos-forms/index.html" />
         <option value="$PROJECT_DIR$/ramos-carlos-final/gallery.html" />
-        <option value="$PROJECT_DIR$/ramos-carlos-final/index.html" />
+        <option value="$PROJECT_DIR$/ramos-carlos-final/artist.html" />
         <option value="$PROJECT_DIR$/ramos-carlos-final/appointment.html" />
+        <option value="$PROJECT_DIR$/ramos-carlos-final/css/custom.css" />
+        <option value="$PROJECT_DIR$/ramos-carlos-final/index.html" />
       </list>
     </option>
   </component>
@@ -177,7 +200,53 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ramos-carlos-forms">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="dws2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="ramos-carlos-final">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="dws2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ramos-carlos-b5">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="dws2">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ramos-carlos-b5">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="css">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -359,49 +428,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ramos-carlos-final/media/p/1001066_4918416049539_1552333807_n.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ramos-carlos-b5/b5.html">
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-forms/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="26" selection-start="824" selection-end="824" vertical-scroll-proportion="1.0162866">
+        <state line="90" column="20" selection-start="3790" selection-end="3790" vertical-scroll-proportion="0.70358306">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ramos-carlos-final/index.html">
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-b5/b5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="20" selection-start="5316" selection-end="5316" vertical-scroll-proportion="-102.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-b5/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-final/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="20" selection-start="3576" selection-end="3576" vertical-scroll-proportion="-15.612904">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ramos-carlos-final/appointment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="22" selection-start="4615" selection-end="4615" vertical-scroll-proportion="-14.774194">
+        <state line="112" column="9" selection-start="4377" selection-end="4377" vertical-scroll-proportion="-18.129032">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-final/artist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="20" selection-start="4141" selection-end="4141" vertical-scroll-proportion="-5.870968">
+        <state line="63" column="4" selection-start="2332" selection-end="2332" vertical-scroll-proportion="-5.548387">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-final/appointment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="197" column="34" selection-start="7256" selection-end="7257" vertical-scroll-proportion="-8.064516">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ramos-carlos-final/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="295" selection-end="295" vertical-scroll-proportion="0.63221884">
+        <state line="24" column="0" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ramos-carlos-final/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="33" selection-start="3556" selection-end="3556" vertical-scroll-proportion="0.16938111">
           <folding />
         </state>
       </provider>

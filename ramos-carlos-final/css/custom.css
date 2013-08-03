@@ -1,17 +1,32 @@
-h1, h2, h3, h4, h5, h6, a{
+body{
+    background-image: url("../media/p/b1.png") ;
+}
+h3, h4, h5, a{
     font-family: 'Cinzel Decorative', cursive;
 }
-#feature{
-    position: relative;
+.top-bar, ul.right li.has-dropdown a, section.top-bar ul.right li a, .top-bar-section ul.right li a{
+    background-color: #EF7C7C;
 }
-/*.cta-button{
-    position: absolute;
-    left: 700px;
-    bottom: 100px;
-}*/
 a.th.radius{
     margin-bottom: 10px;
 }
 #gallery, #artist, #index, #appointment{
     margin-top: 50px;
+}
+footer{
+    background-color: #7C7E81;
+    border-radius: 10px
+
+}
+#appointment, #home-thumbnails.row, .row div.large-8.columns p, .map{
+    background-color: #7C7E81;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+.panel, .large-6.columns table,.large-6.columns tbody tr, div.large-9.columns{
+    background-color: #EF7C7C;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
 }
