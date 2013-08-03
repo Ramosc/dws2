@@ -1,0 +1,56 @@
+body{
+    background-image: url("../media/p/b1.png");
+}
+h3, h4, h5, a{
+    font-family: 'Cinzel Decorative', cursive;
+}
+.top-bar, ul.right li.has-dropdown a, section.top-bar ul.right li a, .top-bar-section ul.right li a{
+    background-color: #EF7C7C;
+}
+a.th.radius{
+    margin-bottom: 10px;
+}
+#gallery, #artist, #index, #appointment{
+    margin-top: 50px;
+}
+footer{
+    background-color: #7C7E81;
+    border-radius: 10px
+
+}
+#appointment, #home-thumbnails.row, .row div.large-8.columns p, .map{
+    background-color: #7C7E81;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+.panel, .large-6.columns table,.large-6.columns tbody tr, div.large-9.columns{
+    background-color: #EF7C7C;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+@media screen and (min-width:789px) and (max-width:1000px){
+    body p{
+        font-size: 14px;
+    }
+    h3, h4, h5, a{
+        font-size: 16px;
+    }
+}
+@media screen and (min-width:400px) and (max-width:768px){
+    a.th.radius.large-12 img{
+        max-width: 100%;
+        height: 300px;
+        width: 300px;
+    }
+    body p{
+        font-size: 12px;
+    }
+    h3, h4, h5, a{
+        font-size: 14px;
+    }
+    img{
+        float: left;
+    }
+}
